@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hexandcube
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hexandcube.tk
+  * I am hexandcube (https://keybase.io/hexandcube) on keybase.
+  * I have a public key ASAqneD0BvN8rE2E9L2WWI7qw32OZrbTjSVraJ0Eul3OjAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d1600252eb555ff4f51a666674504ea320a8772608eb696e00d5ebad131299cf0a",
+      "host": "keybase.io",
+      "kid": "01202a9de0f406f37cac4d84f4bd96588eeac37d8e66b6d38d256b689d04ba5dce8c0a",
+      "uid": "7b3cba4b41bbda910a47e52a19ef2119",
+      "username": "hexandcube"
+    },
+    "merkle_root": {
+      "ctime": 1578599032,
+      "hash": "fdb013fd11204e91a9d341e86f6790c5b9f303a448fc8fd8f839d37c412c7eebbd7aa6173ce5637c66c4c9b517aaf8ea84403873d3510e9ab298f6f74eef48e3",
+      "hash_meta": "349e33cf35f335a4c5b58d8b36067baf60bf2bcdc5b1192a1ca7348363e01678",
+      "seqno": 14159079
+    },
+    "service": {
+      "entropy": "FwfGzV/vwvuMgh5jy7exB2qH",
+      "hostname": "hexandcube.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578599036,
+  "expire_in": 504576000,
+  "prev": "581e81316bb063a92d583656ef3c5f169dea20b3bee0851727d20a6cc04ecae8",
+  "seqno": 103,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKp3g9AbzfKxNhPS9lliO6sN9jma2040la2idBLpdzowKp3BheWxvYWTESpcCZ8QgWB6BMWuwY6ktWDZW7zxfFp3qILO+4IUXJ9IKbMBOyujEIKzMFuI6yzd0MijT8CPj4iT6LrqgYoSaCfbLk2IzYe9GAgHCo3NpZ8RAu+mfmxzT+R4d/8DH0IQwnE7rUvn6fvWjjpvT5rgGa2fyhfFtI+GMNv169qyfvweit2XFh/z5wlYjflpD7kh5CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA120rmt6GJPSeU22C2xkM3R2Lsy3dQ0ux5A5wOv/nubo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hexandcube
+
+==================================================================
