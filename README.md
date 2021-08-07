@@ -1,5 +1,5 @@
 # lovimalum.pl
-Webpage
+my old website
 
 sprawdz LICENSE
 mozna uzywac i zmieniac ale zostawic autora ok dzieki [MIT LICENSE] 
